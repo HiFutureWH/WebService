@@ -1,0 +1,5 @@
+在配置之前，需要cmd进入控制台
+cd 进入该包的位置 进入 src 文件文职
+输入代码 
+wsimport -p com.gyf.mobile.ws -s . http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx?wsdl
+在src包中生成文件即可
